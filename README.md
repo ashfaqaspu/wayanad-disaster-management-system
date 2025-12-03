@@ -24,6 +24,7 @@ Central UI hub for navigating all modules:
 Victims, camps, supply movements, rescue operations, audits, etc.
 
 5. ER Diagram (Full Conceptual Model)
+   https://github.com/ashfaqaspu/wayanad-disaster-management-system/blob/master/schema.jpg
 
 📌 Overview
 
