@@ -49,6 +49,7 @@ Error logging for invalid operations
 Ideal for NGOs, District Collectorate, Emergency Cells, and academic DBMS projects.
 
 🚨 Key Features
+
 🔹Safety Automation
 
 Supply transfers auto-adjust to prevent negative quantities
